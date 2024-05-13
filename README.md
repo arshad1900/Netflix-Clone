@@ -9,7 +9,7 @@ This project is a clone of the Netflix website, created for learning purposes. I
 ## Features
 
 - Responsive design to ensure compatibility across various devices.
-- Mocks the main layout and functionality of the Netflix homepage, including navigation, carousel, and content grids.
+- Mocks the main layout and functionality of the Netflix homepage and content grids.
 - Utilizes CSS for styling, with minimal JavaScript for interactivity.
 
 ## Installation
