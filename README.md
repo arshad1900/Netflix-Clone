@@ -33,8 +33,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-![Page 1](https://github.com/arshad1900/Netflix-Clone/assets/116487598/1bf9b0c0-dc60-4e44-b072-443f07da71b7)
+![Page 1](https://github.com/arshad1900/Netflix-Clone/assets/116487598/76d21b77-c6d8-48e5-99a0-e2ef2da39e10)
 
 ---
 
 ![Page 2](https://github.com/arshad1900/Netflix-Clone/assets/116487598/deceb2b3-a72a-43ff-90d5-f546582f5735)
+
+---
+
+![Page 3](https://github.com/arshad1900/Netflix-Clone/assets/116487598/43097a3d-2876-49e6-9d2d-994e0d9830f0)
+
