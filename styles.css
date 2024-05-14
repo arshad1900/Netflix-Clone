@@ -37,7 +37,7 @@ body{
 
 .featured-content {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.377), #0000009b),
-              url(images/netflix.jpeg);
+              url(images/background.jpeg);
   background-size: cover;
   background-position: center;
 }
