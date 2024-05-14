@@ -11,3 +11,10 @@ document.addEventListener('DOMContentLoaded', function() {
     window.location.href = 'movies.html';
   });
 });
+
+document.addEventListener('DOMContentLoaded', function() {
+  const signin = document.querySelector('.signin');
+  signin.addEventListener('click', function() {
+    window.location.href = 'signin.html';
+  });
+});
